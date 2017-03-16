@@ -1,0 +1,12 @@
+C:\Code\MobileWebAutomation\ConsoleApplication1\ConsoleApplication1\bin\Debug\WebDriver.dll
+C:\Code\MobileWebAutomation\ConsoleApplication1\ConsoleApplication1\bin\Debug\WebDriver.Support.dll
+C:\Code\MobileWebAutomation\ConsoleApplication1\ConsoleApplication1\bin\Debug\WebDriver.xml
+C:\Code\MobileWebAutomation\ConsoleApplication1\ConsoleApplication1\bin\Debug\WebDriver.Support.xml
+C:\Code\MobileWebAutomation\ConsoleApplication1\ConsoleApplication1\bin\Debug\MobileWebAutomation.dll.config
+C:\Code\MobileWebAutomation\ConsoleApplication1\ConsoleApplication1\bin\Debug\MobileWebAutomation.dll
+C:\Code\MobileWebAutomation\ConsoleApplication1\ConsoleApplication1\bin\Debug\MobileWebAutomation.pdb
+C:\Code\MobileWebAutomation\ConsoleApplication1\ConsoleApplication1\bin\Debug\nunit.framework.dll
+C:\Code\MobileWebAutomation\ConsoleApplication1\ConsoleApplication1\bin\Debug\nunit.framework.xml
+C:\Code\MobileWebAutomation\ConsoleApplication1\ConsoleApplication1\obj\Debug\MobileWebAutomation.csprojResolveAssemblyReference.cache
+C:\Code\MobileWebAutomation\ConsoleApplication1\ConsoleApplication1\obj\Debug\MobileWebAutomation.dll
+C:\Code\MobileWebAutomation\ConsoleApplication1\ConsoleApplication1\obj\Debug\MobileWebAutomation.pdb
